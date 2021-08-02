@@ -6,7 +6,7 @@
 This project is based on the * [SemEval 2020 Task 4 (ComVE) Task A.](https://competitions.codalab.org/competitions/21080). Recently utilizing natural language understanding systems to common sense has received significant attention in the research area. Nevertheless, this kind of task remains pretty complicated to solve because of the ambiguity which is one of the natural properties of language and yet to achieve performance compared with human understanding of common sense.  
 
 # Dataset
-We have used dataset that given "https://github.com/wangcunxiang/SemEval2020-Task4-Commonsense-Validation-and-Explanation" here.
+Use the Data Set file for Datafiles and change path accordingly
 
 # Subtask A
 Run the CommonsenseValidation.py file.
